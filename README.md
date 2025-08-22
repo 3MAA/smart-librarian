@@ -80,7 +80,6 @@ uvicorn main:app --reload --port 8000
 
 These questions trigger friendly fallback responses when no match is found:
 
-- I couldn't find a relevant book in the current library. Could you provide more details?
 - Do you know a book about parenting?
 - Can you recommend a thriller book?
 - I want a book about how to take care of cactus.
