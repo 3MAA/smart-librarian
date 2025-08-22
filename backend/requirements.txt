@@ -1,0 +1,14 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+pydantic-settings>=2.2
+openai>=1.40
+langchain>=0.2
+langchain-community>=0.2
+langchain-openai>=0.2
+chromadb>=0.5
+python-dotenv>=1.0
+gtts>=2.5
+SpeechRecognition>=3.10
+pyaudio>=0.2.14
+better-profanity>=0.7
